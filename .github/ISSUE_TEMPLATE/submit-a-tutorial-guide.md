@@ -18,7 +18,7 @@ Examples:
 Example:
 "This tutorial/guide covers the basics of [ _____ ], that replaces [ _____ ] with [ _____ ]. It includes common use cases and how to implement them, an example for creating [ _____ ], and resources for building your own [ _____ ]."
 
-## My Format
+## My Format 
 
 - [ ] Article
 - [ ] Video
