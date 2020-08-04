@@ -4,7 +4,7 @@ Welcome to the Webiny community!
 
 This is the starting point for joining and contributing to the Webiny community - improving docs, improving code, giving talks etc.
 
-To learn more about the project structure and organization, please refer to Project information [here](https://github.com/webiny/webiny-js/blob/master/docs/CONTRIBUTING.md).
+To learn more about the project structure and organization, please refer to the docs on the Getting Started with Webiny [here](http://docs.webiny.com/docs/webiny/introduction/).
 
 ### Community content
 Contribute and collaborate on educational content for the Webiny Community.
@@ -32,3 +32,5 @@ Contribute and collaborate on educational content for the Webiny Community.
 * [Creating a blog with Headless CMS + Angular](http://docs.webiny.com/docs/guides/headless-angular-tutorial)
 * [Creating Custom Page Elements](webiny.com/docs/guides/creating-iframe-element-plugin)
 
+### Contributing
+Please see our [Contributing Guidelines](https://github.com/webiny/webiny-js/blob/master/docs/CONTRIBUTING.md) which explain repo organization, setup, testing, and other steps.
