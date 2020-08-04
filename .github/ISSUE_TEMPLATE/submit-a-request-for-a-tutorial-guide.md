@@ -15,6 +15,9 @@ Examples:
 "How [something] works"
 
 ## What would you like to learn?
+Please describe what you would like to *learn*, *build*, and *achieve* with this tutorial. 
+Provide as much detail as possible.
+
 💡 ...
 
 ## Community vote
