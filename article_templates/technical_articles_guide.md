@@ -20,8 +20,8 @@ webiny articles have a consistent structure of the following sections:
 - Introduction
 - Goals (Optional)
 - Prerequisites
-- `1. - Doint the First Thing`
-- `2. - Doint the Next Thing`
+- `1. Doint the First Thing`
+- `2. Doint the Next Thing`
 - ...
 - n. Doing the Last Thing
 - Conclusion
@@ -103,9 +103,9 @@ The Step sections are the parts of your tutorial where you describe what the rea
 
 Each step begins with a level 2 heading and use the gerund, which are -ing words.
 
-Procedural tutorials should start each step title with the number of the step, example `1. `, followed by an em-dash:
+Procedural tutorials should start each step title with the number of the step, example `1. `:
 
-> `1. - Creating an API service`
+> `1. Creating an API service`
 
 After the title, add an introductory sentence that describes what the reader will do in each step and what role it plays in achieving the overall goal of the tutorial. 
 Focus on the reader. Instead of phrases like “We will learn” or  “I will explain”, use phrases like “You will build” or “you will create”.
