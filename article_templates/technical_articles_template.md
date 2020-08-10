@@ -81,7 +81,7 @@ When you're finished, you'll be able to...
 
 Before you begin this guide you'll need the following:
 
-- [have an existing Webiny project](http://docs.webiny.com/docs/get-started/quick-start)
+- [Make sure to have a Webiny project setup](http://docs.webiny.com/docs/get-started/quick-start)
 - ...
 
 <!-- Example:
@@ -89,7 +89,7 @@ Find out the Quick start example by [Webiny](http://docs.webiny.com/docs/get-sta
 
 -->
 
-## Step 1 — Doing Something
+## 1. Doing Something
 
 Introduction to the step. What are we going to do and why are we doing it?
 
@@ -107,7 +107,7 @@ If showing a command, explain the command first by talking about what it does. T
 
 Now transition to the next step by telling the reader what's next.
 
-## Step 2 — Title Case
+## 2. Title Case
 
 Another introduction
 
@@ -115,7 +115,7 @@ Your content
 
 Transition to the next step.
 
-## Step 3 — Title Case
+## 3. Title Case
 
 Another introduction
 
