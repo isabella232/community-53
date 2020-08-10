@@ -1,5 +1,3 @@
-### Content format template
-
 ## Overview
 
 In this technical articles guideline, you will have tips for how you can impact your audience by making your articles as strong as possible.
