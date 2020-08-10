@@ -45,7 +45,7 @@ You can choose one to five keywords for your article. These keywords will make i
 
 The default keywords for Webiny are: `Serverless`, `AWS serverless`, `move to serverless`
 
-For more information, go ahead at the [Webiny keywords](https://github.com/webiny/community/article_templates/technical_articles_idea#Webiny Keywords)
+For more information on the technical articles guideline, go ahead at the [Webiny Technical Articles Guideline](https://github.com/webiny/community/content-format-templates/technical_articles_guide.md)
 
 -->
 
