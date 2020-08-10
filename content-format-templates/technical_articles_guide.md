@@ -5,14 +5,13 @@ In this technical articles guideline, you will have tips for how you can impact 
 
 ## Goals
 
-1. Content format templates
-    - Technical articles Guide
+- Technical Articles Guide
 
 ## Structure
 
-### Technical articles template
+### Technical articles guide
 
-webiny articles have a consistent structure of the following sections:
+Webiny articles have a consistent structure of the following sections:
 
 - Title
 - Introduction
