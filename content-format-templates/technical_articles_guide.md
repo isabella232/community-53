@@ -17,8 +17,8 @@ Webiny articles have a consistent structure of the following sections:
 - Introduction
 - Goals (Optional)
 - Prerequisites
-- `1. Doint the First Thing`
-- `2. Doint the Next Thing`
+- `1. Do the First Thing`
+- `2. Do the Next Thing`
 - ...
 - n. Doing the Last Thing
 - Conclusion
