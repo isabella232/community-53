@@ -10,10 +10,12 @@ In this technical articles guideline, you will have tips for how you can impact 
     - Add your Cover Images (optional)
     - Choose Your Keywords (Req)
     - Introduction
+        - CTA to subscribe to our channel
     - Goals
     - Prerequisites
     - Steps
     - Conclusion
+        - CTA to subscribe to our channel
 
 ## Technical Articles Guide
 
@@ -76,6 +78,8 @@ What are some practical reasons why the reader should follow this tutorial?
 
 - **What will the reader have accomplished when they’re done?** What new skills will they have? What will they be able to do that they couldn’t do before?
 
+- **CTA to subscribe to our channel** to ge the latest updates from our YouTube channel.
+
 By answering these questions in your introduction, these will also help you design a clear and reader-focused tutorial, as you’ll align the steps.
 
 Instead of using phrases like **“We will learn how to”**, use phrases like **“you will configure”** or **“you will build”**.
@@ -128,3 +132,5 @@ Instead of using phrases like **“we learned how to”**, use phrases like **�
 The conclusion should also describe what the reader can do next.
 
 This can include a description of use cases or features the reader can explore, link to other Webiny tutorials with additional setup or configuration, and external documentation.
+
+- CTA to subscribe to our channel to ge the latest updates from our YouTube channel.
