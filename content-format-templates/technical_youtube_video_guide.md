@@ -2,14 +2,21 @@
 
 In this technical YouTube(YT) videos guideline, you will have tips for how you can create YT video tutorials.
 
-
-## Goals
+> Content
 
 - Technical YouTube(YT) Videos Guide
+    - Structure
+    - Title
+    - Add your Thumbnail Images (Required)
+    - Choose Your Tags (Required)
+    - Introduction
+    - Prerequisites
+    - Steps in TimeStamp
+    - Conclusion, End Screen
 
-## Structure
+## Technical YouTube(YT) Videos Guide
 
-### Technical YouTube(YT) videos Guide
+### Structure
 
 Webiny YT videos have a consistent content structure of the following sections:
 

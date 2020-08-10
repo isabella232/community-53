@@ -2,14 +2,22 @@
 
 In this technical articles guideline, you will have tips for how you can impact your audience by making your articles as strong as possible.
 
-
-## Goals
+> Content
 
 - Technical Articles Guide
+    - Structure
+    - Title
+    - Add your Cover Images (optional)
+    - Choose Your Keywords (Req)
+    - Introduction
+    - Goals
+    - Prerequisites
+    - Steps
+    - Conclusion
 
-## Structure
+## Technical Articles Guide
 
-### Technical articles guide
+### Structure
 
 Webiny articles have a consistent structure of the following sections:
 
