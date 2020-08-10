@@ -22,6 +22,7 @@ Webiny YT videos have a consistent content structure of the following sections:
 
 - Title
 - Introduction
+    - CTA to subscribe to our channel
 - Goals (Optional)
 - Prerequisites
 - `1. Do the First Thing`
@@ -29,6 +30,7 @@ Webiny YT videos have a consistent content structure of the following sections:
 - ...
 - n. Doing the Last Thing
 - Conclusion
+    - CTA to subscribe to our channel
 
 When it comes to the YT video format there are some other sections we will go through below.
 
@@ -69,6 +71,8 @@ What are some practical reasons why the reader should follow this tutorial?
 - **What will the audience do or create in this video tutorial?** Are they setting up an API, or an APP and then testing it? Are they building an app and deploying it? Be specific, as this provides the motivation readers need and gets them excited about the topic.
 
 - **What will the audience have accomplished when they’re done?** What new skills will they have? What will they be able to do that they couldn’t do before?
+
+- **CTA to subscribe to our channel** in order to be notified for the latest tutorials from our channel
 
 By answering these questions in your introduction, these will also help you design a clear and focused video tutorial, as you’ll align the steps.
 
@@ -119,3 +123,5 @@ Instead of using phrases like **“we learned how to”**, use phrases like **�
 The conclusion should also describe what the reader can do next, by including links in the **end screen** of the video.
 
 This can include a description of use cases or features the reader can explore, link to other Webiny tutorials with additional setup or configuration, and external documentation.
+
+- **CTA to subscribe to our channel** in order to be notified for the latest tutorials from our channel
