@@ -20,15 +20,15 @@ webiny articles have a consistent structure of the following sections:
 - Introduction
 - Goals (Optional)
 - Prerequisites
-- 1. Doint the First Thing
-- 2. Doint the Next Thing
+- `1. - Doint the First Thing`
+- `2. - Doint the Next Thing`
 - ...
 - n. Doing the Last Thing
 - Conclusion
 
-We have [our article template](https://github.com/webiny/community/article_templates/technical_articles_template) written in Markdown for you, we encourage you tu use this template as a starting point for your own articles.
+We have [our article template](https://github.com/webiny/community/blob/master/article_templates/technical_articles_template.md) written in Markdown for you, we encourage you tu use this template as a starting point for your own articles.
 
-#### Title
+### Title
 
 Example Titles:
 - “How to fix...”
@@ -45,18 +45,18 @@ Example Titles:
 
 When you write your title, think carefully about what the reader will accomplish by following your tutorial. Try to include the goal of the tutorial in the title, not just the tool(s) the reader will use to accomplish that goal.
 
-#### Add your Cover Images (optional)
+### Add your Cover Images (optional)
 
 Once you’ve chosen your clear, informative headline, add a nice cover image.
 A free site like Canva.com can help you with this process.
 
-#### Choose Your Keywords (Req)
+### Choose Your Keywords (Req)
 
 You can choose one to five keywords for your article. These keywords will make it easier for readers to discover your articles through search.
 
 The default keywords for Webiny are: `Serverless`, `AWS serverless`(optional), `move to serverless`(optional).
 
-#### Introduction
+### Introduction
 
 The purpose of the introduction is to motivate the reader, set expectations, and summarize what the reader will do in the article. 
 
@@ -75,7 +75,7 @@ By answering these questions in your introduction, these will also help you desi
 
 Instead of using phrases like **“We will learn how to”**, use phrases like **“you will configure”** or **“you will build”**.
 
-#### Goals
+### Goals
 
 When having larger tutorials use the optional Goals section. You should only use this section if your tutorial has a large software stack, or otherwise has a particularly complicated purpose, method, or result.
 
@@ -97,7 +97,7 @@ You can see a good prerequisites example for:
 
 Be specific with your prerequisites. A prerequisite without a link to something specific doesn’t give your reader much context. Instead, consider listing specific concepts the reader should know, and provide them with resources that help them get up to speed so they can successfully complete your tutorial.
 
-#### Steps
+### Steps
 
 The Step sections are the parts of your tutorial where you describe what the reader needs to do. A step contains commands, code listings, and files, and provides explanations that not only explain what to do but also why you’re doing it this way.
 
@@ -105,7 +105,7 @@ Each step begins with a level 2 heading and use the gerund, which are -ing words
 
 Procedural tutorials should start each step title with the number of the step, example `1. `, followed by an em-dash:
 
-> 1. - Creating an API service
+> `1. - Creating an API service`
 
 After the title, add an introductory sentence that describes what the reader will do in each step and what role it plays in achieving the overall goal of the tutorial. 
 Focus on the reader. Instead of phrases like “We will learn” or  “I will explain”, use phrases like “You will build” or “you will create”.
@@ -114,7 +114,7 @@ Focus on the reader. Instead of phrases like “We will learn” or  “I will e
 
 - Avoid repeating the step title in these introductions and transitions, and don’t start or end steps with contextless instructions, commands, or output.
 
-#### Conclusion
+### Conclusion
 
 The conclusion of your tutorial should summarize what the reader has accomplished by following your tutorial. 
 
