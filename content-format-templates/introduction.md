@@ -1,6 +1,6 @@
 ## Content Format Templates
 
-### [Technical Articles Guidelines](/content-format-templates/technical_articles_guide)
+### [Technical Articles Guidelines](/community/content-format-templates/technical_articles_guide)
 
 ### [Technical Articles Template](/community/content-format-templates/technical_articles_template.md)
 
