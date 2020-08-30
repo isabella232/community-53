@@ -10,12 +10,12 @@ In this technical articles guideline, you will have tips for how you can impact 
     - Add your Cover Images (optional)
     - Choose Your Keywords (Req)
     - Introduction
-        - CTA to subscribe to our channel
+        - CTA to Webiny GitHub repos or Webiny Website
     - Goals
     - Prerequisites
     - Steps
     - Conclusion
-        - CTA to subscribe to our channel
+        - CTA to Webiny GitHub repos or Webiny Website
 
 ## Technical Articles Guide
 
